@@ -1,0 +1,21 @@
+.body {
+  margin: auto;
+  width: 40%;
+  background-color: whitesmoke;
+  padding: 10px;
+  height: 400px;
+}
+
+.remove-one {
+  position: absolute;
+  right: 430px;
+}
+
+.counter{
+ padding-left: 182px; 
+}
+
+.star{
+  margin: auto;
+  width: 40%;
+}
